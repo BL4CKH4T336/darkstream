@@ -1,8 +1,8 @@
 {
-  "1080p": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1741149777~acl=%2f*~data=hdntl~hmac=76411f198e0ce7850ded22c05da3f9239a037d38338204abb41f4a6d6a0a7f56/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8",
-  "720p": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1741149777~acl=%2f*~data=hdntl~hmac=76411f198e0ce7850ded22c05da3f9239a037d38338204abb41f4a6d6a0a7f56/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8",
+  "1080p": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1741520182~acl=/*~hmac=1a03b1cce9e170f94589ef43002f4ca93183df5ba52f1fb9319f3d2151846076",
+  "720p": "https://cdna.embedxt.site/hls/index720p.m3u8",
   "480p": "https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740378932~acl=%2F*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6029ae6ff841ccbb41d820a46f0a255ad02a678707e7c6ad9a63bd546d3ee24d/JC_Sports18_1HD-audio_108038_eng=108000-video=2297600.m3u8",
-  "360p": "https://cdnt20.t20hd.cfd/live/m3-index.m3u8",
-  "240p": "https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740378932~acl=%2F*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6029ae6ff841ccbb41d820a46f0a255ad02a678707e7c6ad9a63bd546d3ee24d/JC_Sports18_1HD-audio_108038_eng=108000-video=305200.m3u8",
+  "360p": "http://sat1.uvitech.eu/test/183386/82335/952016.m3u8?web=GRtQWBcJRgkUUQ9QVlZUAwJUD1cNVFtWVgICAgwAAwRTAQENUwQGClVEFRNHERFUVg9mX11EAlQCA00WTEoEQT1QXBteQ1UDD14LExhHFkJSEFdXVAMaWxAGAg4BAFsCUgNdAV5QBwlSUhsdFhUCQkQVVkRdRAJDCgBYFhUbFVoPXBoDVE1GQ18CGwsWVFcFB1cbGhsDQBVXRA9VVWYFVhRQW1xGWwpGWgoVE1sLPFVSD1hYXUQCQwIUTRZQShERWBtqXAgIBV1VAxl7XQpDeFkEVlVWC1VBfl8MXU1cBRFOG1pQEBMFR1NEAxMHVlIIFU4bVVYTVhVAT0MOG3AvEU4bXUEQBApAXwlXEw5HDgJCWhsaGw9LPkBTEkBLXABeB0saA0ZRRh8UC1hJawYMX1kHWkJQCVYSEAxDBRsVQ14NV1FNCxM7Q18CGwsWVFcBDlEbSw==",
+  "240p": "https://cdna.embedxt.site/hls/index720p.m3u8",
   "144p": "https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740378932~acl=%2F*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6029ae6ff841ccbb41d820a46f0a255ad02a678707e7c6ad9a63bd546d3ee24d/JC_Sports18_1HD-audio_42842_eng=42800-video=151600.m3u8"
 }
